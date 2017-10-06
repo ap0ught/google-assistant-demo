@@ -1,12 +1,12 @@
 # Google Assistant Demo for CHIP Pro
 
-### What Is This?:
+### What Is This?
 
 This is a demo project for running Google Assistant on a CHIP Pro Dev Kit. It uses the onboard microphones and wifi connectivity so that users can ask questions by saying, "Hey Google."
 
 This demo requires the user to grant access to their Google Account. To set this up, users can connect CHIP Pro to desktop computer with a USB cable and access a specific website that is running on the device. This site allows users to configure the wifi settings and authorize CHIP Pro to access Google.
 
-For ease of use, a pre-made CHP image is included that can be flash directly to the device so that no compiling is required. See the "Getting Strated" instructions below.
+For ease of use, [a pre-made CHP image](https://github.com/NextThingCo/google-assistant-demo/releases/) is included that can be flash directly to the device so that no compiling is required. See the "Getting Strated" instructions below.
 
 ### Requirements:
 
@@ -20,7 +20,7 @@ For ease of use, a pre-made CHP image is included that can be flash directly to 
 
 ### Getting Started:
 
-The quickest way to use Google Assistant on your CHIP Pro is to download a pre-made Google Voice Assistant CHP file and use the [online web flasher](https://docs.getchip.com/chip_pro_devkit.html#flash-with-an-os) to copy it to your dev kit. Be sure to select the “Choose an image” button on the web flasher and direct it to the Google Assistant Demo CHP file.
+The quickest way to use Google Assistant on your CHIP Pro is to [download a pre-made Google Voice Assistant CHP file](https://github.com/NextThingCo/google-assistant-demo/releases/) and use the [online web flasher](https://docs.getchip.com/chip_pro_devkit.html#flash-with-an-os) to copy it to your dev kit. Be sure to select the “Choose an image” button on the web flasher and direct it to the Google Assistant Demo CHP file.
 
 Once you have flashed your CHIP Pro dev kit, simply connect a speaker or some headphones, reboot, and listen for the audio instructions.
 
