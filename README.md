@@ -57,14 +57,14 @@ From the Gadget OS directory, execute the inject project script and point it to 
 
 ```
 cd /home/myName/Gadget-OS
-./scripts/inject project /home/myName/google-assistant-demo
+scripts/inject-project /home/myName/google-assistant-demo
 ```
 
 Now make the Linux kernel, [put your CHIP Pro into FEL mode](https://docs.getchip.com/chip_pro_devkit.html#flashing-process), connect it to your computer over USB, and flash it:
 
 ```
 make
-./scripts/flash-gadget
+scripts/flash-gadget
 ```
 
 Once flashing has finished, reboot your CHIP Pro and listen for the audio instructions with headphones or a speaker.
