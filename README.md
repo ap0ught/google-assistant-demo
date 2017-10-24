@@ -20,7 +20,7 @@ For ease of use, [a pre-made CHP image](https://github.com/NextThingCo/google-as
 
 ### Getting Started:
 
-The quickest way to use Google Assistant on your CHIP Pro is to [download a pre-made Google Voice Assistant CHP file](https://github.com/NextThingCo/google-assistant-demo/releases/) and use the [online web flasher](https://docs.getchip.com/chip_pro_devkit.html#flash-with-an-os) to copy it to your dev kit. Be sure to select the “Choose an image” button on the web flasher and direct it to the Google Assistant Demo CHP file. Follow [this link](https://docs.getchip.com/chip_pro_devkit.html#flashing-process) for more instructions on using the web flasher.
+The quickest way to use Google Assistant on your CHIP Pro is to use the [online web flasher](https://docs.getchip.com/chip_pro_devkit.html#flash-with-an-os) to copy it to your dev kit. Simply follow the instructions and choose the "Google Voice Demo" button. Follow [this link](https://docs.getchip.com/chip_pro_devkit.html#flashing-process) for more detailed instructions on using the web flasher.
 
 Once you have flashed your CHIP Pro dev kit, simply connect a speaker or some headphones, reboot, and listen for the audio instructions.
 
